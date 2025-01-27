@@ -61,10 +61,10 @@ La **monitorización de la red** es la supervisión del tráfico y rendimiento d
 
 #### Opciones:
 - **`-a`**: Muestra todas las conexiones y puertos de escucha, incluyendo las conexiones activas y los puertos en espera de conexiones.
-- ![netstat -a.png](https://github.com/N1tr0Zeu5/Monitorizacion/blob/main/Img*/Monitorizacion/Network/netstat%20-a.png)
+![netstat -a.png](https://github.com/N1tr0Zeu5/Monitorizacion/blob/main/Img*/Monitorizacion/Network/netstat%20-a.png)
 - **`-n`**: Muestra las direcciones IP y los números de puerto en formato numérico, sin realizar la resolución de nombres de host.
-- ![netstat -n.png](https://github.com/N1tr0Zeu5/Monitorizacion/blob/main/Img*/Monitorizacion/Network/netstat%20-n.png)
+![netstat -n.png](https://github.com/N1tr0Zeu5/Monitorizacion/blob/main/Img*/Monitorizacion/Network/netstat%20-n.png)
 - **`-tp`**: Muestra las conexiones TCP activas junto con los PID y los nombres de los procesos que las están utilizando.
-- ![netstat -tcp.png](https://github.com/N1tr0Zeu5/Monitorizacion/blob/main/Img*/Monitorizacion/Network/netstat%20-tcp.png)
+![netstat -tcp.png](https://github.com/N1tr0Zeu5/Monitorizacion/blob/main/Img*/Monitorizacion/Network/netstat%20-tcp.png)
 - **`-l`**: Muestra únicamente las conexiones que están en estado de "escucha", es decir, los puertos que están esperando recibir conexiones entrantes.
-- ![netstat -l.png](https://github.com/N1tr0Zeu5/Monitorizacion/blob/main/Img*/Monitorizacion/Network/netstat%20-l.png)
+![netstat -l.png](https://github.com/N1tr0Zeu5/Monitorizacion/blob/main/Img*/Monitorizacion/Network/netstat%20-l.png)
