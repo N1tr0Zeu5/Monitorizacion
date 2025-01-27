@@ -35,9 +35,9 @@ información estadística sobre el uso del procesador y la actividad
 de los dispositivos de almacenamiento. 
 
 **Uso básico**:  
-- `-x` 
-- `-d`
-- `- c`
+- `-x`: Muestra estadísticas detalladas sobre los dispositivos de almacenamiento.
+- `-d` : Muestra estadísticas de los dispositivos de disco específicos.
+- `- c` : Muestra estadísticas relacionadas con el uso de la CPU.
 
 > [!NOTE]
 > Conclusion: -free: Monitorea el estado de la memoria RAM y swap. -df: Verifica el espacio disponible en disco. -du: Identifica directorios que consumen mucho espacio. -iostat: Analiza el rendimiento del CPU y los discos. 
