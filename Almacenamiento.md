@@ -24,9 +24,9 @@ El comando `df` permite conocer el uso y la disponibilidad del espacio en los si
 El comando `du` calcula el espacio ocupado por directorios y archivos concretos.  
 
 **Uso básico**:  
-- `-h` 
-- `-s`
-- `- d` 
+- `-h`: Muestra el tamaño de los archivos y directorios en un formato legible para los humanos, 
+- `-s` : Muestra solo el total del espacio utilizado por un directorio o archivo
+- `- d` : Especifica la profundidad del nivel de directorios que se quiere analizar
 
 ---
 ### 1.4 El comando iostat: Estadísticas de CPU y Disco
