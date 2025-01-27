@@ -1,5 +1,14 @@
-## 1. Monitorización del Almacenamiento  
+# Monitorización de Almacenamiento
 
+La **monitorización de almacenamiento** consiste en supervisar el uso y rendimiento de los dispositivos de almacenamiento, como discos duros y SSD, para garantizar un funcionamiento óptimo del sistema y prevenir problemas como la falta de espacio o fallos de hardware.
+
+## 1. Uso de espacio en disco
+   - Se monitoriza cuánto espacio está siendo utilizado y cuánto queda disponible. Esto ayuda a evitar quedarse sin espacio, lo que podría afectar el funcionamiento del sistema.
+
+## 2. Rendimiento del disco
+   - Se supervisa la velocidad de lectura y escritura en el disco, así como la latencia (tiempo de respuesta) y las operaciones de entrada/salida (I/O). Esto es clave para identificar cuellos de botella que puedan reducir el rendimiento general del sistema.
+
+## 3. Comandos
 ### 1.1 Comando `free` (Memoria RAM)  
 El comando `free` muestra información sobre el uso de la memoria RAM (libre y utilizada).  
 
