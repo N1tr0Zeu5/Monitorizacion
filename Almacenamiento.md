@@ -39,4 +39,5 @@ de los dispositivos de almacenamiento.
 - `-d`
 - `- c`
 
-**Nota**: Recuerda instalar el paquete antes de usar el comando.
+> [!NOTE]
+> Conclusion: -free: Monitorea el estado de la memoria RAM y swap. -df: Verifica el espacio disponible en disco. -du: Identifica directorios que consumen mucho espacio. -iostat: Analiza el rendimiento del CPU y los discos. 
