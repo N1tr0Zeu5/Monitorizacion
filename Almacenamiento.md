@@ -30,7 +30,7 @@ El comando `du` calcula el espacio ocupado por directorios y archivos concretos.
 
 ---
 ### 1.4 El comando iostat: Estadísticas de CPU y Disco
-El comando iostat forma parte del paquete sysstat y ofrece
+El comando `iostat` forma parte del paquete sysstat y ofrece
 información estadística sobre el uso del procesador y la actividad
 de los dispositivos de almacenamiento. 
 
